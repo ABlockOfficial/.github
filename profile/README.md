@@ -31,6 +31,7 @@ Find resources on contribution here:
   <thead align="center">
     <tr border: none;>
       <td><b>📘 Repo</b></td>
+      <td><b>📝 Description</b></td>
       <td><b>⭐ Stars</b></td>
       <td><b>🤝 Forks</b></td>
     </tr>
@@ -38,21 +39,25 @@ Find resources on contribution here:
   <tbody>
     <tr>
       <td><a href="https://github.com/ABlockOfficial/Network"><b>Network</b></a></td>
+      <td>The network that supports the AIBlock tech stack</td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/ABlockOfficial/Network?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/ABlockOfficial/Network?style=flat-square&labelColor=343b41"/></td>
     </tr>
         <tr>
       <td><a href="https://github.com/ABlockOfficial/A-Block.js"><b>A-Block.js</b></a></td>
+      <td>AIBlock JavaScript SDK</td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/ABlockOfficial/A-Block.js?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/ABlockOfficial/A-Block.js?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/ABlockOfficial/Chain"><b>Chain</b></a></td>
+      <td>The blockchain that powers the AIBlock tech stack</td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/ABlockOfficial/Chain?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/ABlockOfficial/Chain?style=flat-square&labelColor=343b41"/></td>
     </tr>
      <tr>
       <td><a href="https://github.com/ABlockOfficial/Valence"><b>Valence</b></a></td>
+      <td>The L2 node for E2E encrypted data exchange</td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/ABlockOfficial/Valence?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/ABlockOfficial/Valence?style=flat-square&labelColor=343b41"/></td>
     </tr>
