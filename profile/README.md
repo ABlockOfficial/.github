@@ -1,4 +1,4 @@
-<a href="https://aiblock.dev"><img width="100%" height="auto" src="https://raw.githubusercontent.com/ABlockOfficial/.github/f9ce2c0e25a1a3e5c572cab314826c650ec853cf/aiblock_logo.svg" height="175px"/></a>
+<a href="https://aiblock.dev"><img width="400px" height="auto" src="https://raw.githubusercontent.com/ABlockOfficial/.github/f9ce2c0e25a1a3e5c572cab314826c650ec853cf/aiblock_logo.svg" style="margin:40px auto;display:block;"></a>
 
 <h3 align="center">Hey there, welcome to AIBlock 👋</h3>
 
@@ -30,6 +30,11 @@ Build on the following repos and qualify for our future airdrops:
       <td><img alt="Stars" src="https://img.shields.io/github/stars/ABlockOfficial/Network?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/ABlockOfficial/Network?style=flat-square&labelColor=343b41"/></td>
     </tr>
+        <tr>
+      <td><a href="https://github.com/ABlockOfficial/A-Block.js"><b>A-Block.js</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/ABlockOfficial/A-Block.js?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/ABlockOfficial/A-Block.js?style=flat-square&labelColor=343b41"/></td>
+    </tr>
     <tr>
       <td><a href="https://github.com/ABlockOfficial/Chain"><b>Chain</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/ABlockOfficial/Chain?style=flat-square&labelColor=343b41"/></td>
@@ -40,16 +45,7 @@ Build on the following repos and qualify for our future airdrops:
       <td><img alt="Stars" src="https://img.shields.io/github/stars/ABlockOfficial/Valence?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/ABlockOfficial/Valence?style=flat-square&labelColor=343b41"/></td>
     </tr>
-    <tr>
-      <td><a href="https://github.com/ABlockOfficial/unicode-formatter"><b>Unicode Formatter</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/ABlockOfficial/unicode-formatter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/ABlockOfficial/unicode-formatter?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/ABlockOfficial/Unedit-for-Reddit"><b>Unedit for Reddit</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/ABlockOfficial/Unedit-for-Reddit?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/ABlockOfficial/Unedit-for-Reddit?style=flat-square&labelColor=343b41"/></td>
-    </tr>
+
   </tbody>
 </table>
 
