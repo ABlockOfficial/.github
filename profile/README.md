@@ -1,4 +1,6 @@
+<div align="center">
 <a href="https://aiblock.dev"><img width="400px" height="auto" src="https://raw.githubusercontent.com/ABlockOfficial/.github/f9ce2c0e25a1a3e5c572cab314826c650ec853cf/aiblock_logo.svg" style="margin:40px auto;display:block;"></a>
+</div>
 
 <h3 align="center">Hey there, welcome to AIBlock 👋</h3>
 
