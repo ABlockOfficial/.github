@@ -14,9 +14,18 @@
 
 ..
 
-## ⚙️ Help Us Build
+## 🤝 Contributing
 
-Build on the following repos and qualify for our future airdrops:
+Find resources on contribution here:
+
+- 🧩 [Contribution Process](https://github.com/ABlockOfficial/.github/blob/main/contribution-process/README.md)
+- 🪲 [Issue Template](https://github.com/ABlockOfficial/.github/blob/main/issue-template/README.md)
+- 🛠️ [Pull Request Template](https://github.com/ABlockOfficial/.github/blob/main/pr-template/README.md)
+- 🤝 [Community Guidelines](https://github.com/ABlockOfficial/.github/blob/main/community-guidelines/README.md)
+
+..
+
+## ⚙️ Help Us Build
 
 <table>
   <thead align="center">
@@ -58,7 +67,7 @@ Build on the following repos and qualify for our future airdrops:
 
 ..
 
-## 👨‍💻 SDKs:
+## 👨‍💻 SDKs
 
 <table>
     <tbody>
@@ -111,6 +120,8 @@ Build on the following repos and qualify for our future airdrops:
         </tr> -->
     </tbody>
 </table>
+
+..
 
 <!-- https://github.com/gautamkrishnar/blog-post-workflow -->
 <!-- ## 📺 Latest YouTube Videos
