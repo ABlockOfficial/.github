@@ -72,12 +72,12 @@ Build on the following repos and qualify for our future airdrops:
   <a href="https://github.com/ABlockOfficial?tab=repositories"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-More%20Repos-black?style=for-the-badge&logo=addthis&logoColor=white"/></a>
 </p>
 
-## 👨‍💻 Languages and Tools:
+## 👨‍💻 SDKs:
 
 <table>
     <tbody>
         <tr>
-            <td><a href="#"><img alt="JavaScript" title="JavaScript" height="28px"
+            <td><a href="#"><img alt="JavaScript SDK" title="JavaScript SDK" height="50px"
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>
             </td>
             <td><a href="#"><img alt="HTML5" title="HTML5" height="28px"
