@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="https://aiblock.dev"><img width="100%" height="auto" src="https://raw.githubusercontent.com/ABlockOfficial/.github/f9ce2c0e25a1a3e5c572cab314826c650ec853cf/aiblock_logo.svg" height="175px"/></a>
 
 <h3 align="center">Hey there, welcome to AIBlock 👋</h3>
 
@@ -8,20 +8,6 @@
   <a href="https://twitter.com/ABlockOfficial"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/ABlockOfficial?color=55960c&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
   <a href="https://github.com/ABlockOfficial"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/ABlockOfficial&label=Follow"/></a>
   <a href="https://github.com/ABlockOfficial"><img alt="views" title="Github views" src="https://freshidea.com/jonah/app/ghpvc/"/></a>
-</p>
-
-## 📖 About me
-
-* 💻 I'm a full stack web developer
-* 🎨 I'm a self-taught UI designer
-* 📱 I make apps for Android and iOS
-* 🎓 I'm a Computer Science student (graduating in October 2021)
-* 🌐 You can see some of my projects on [my portfolio](https://freshidea.com/jonah/)
-* 📺 I make web development and tech tutorials on [YouTube](https://www.youtube.com/c/DevProTips)
-
-<p align="left">
-  <a href="https://freshidea.com/jonah/"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=koding&logoColor=white"/></a>
-    <a href="http://eyl327.mywebcommunity.org/promos/"><img alt="Gifts" title="Gifts for you" src="https://img.shields.io/badge/-Links%20to%20free%20stuff-000000?style=for-the-badge&logo=coveralls&logoColor=white"/></a>
 </p>
 
 ..
