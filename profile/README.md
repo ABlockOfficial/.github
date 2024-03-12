@@ -1,16 +1,8 @@
 <div align="center">
-<a href="https://aiblock.dev"><img width="400px" height="auto" src="https://raw.githubusercontent.com/ABlockOfficial/.github/f9ce2c0e25a1a3e5c572cab314826c650ec853cf/aiblock_logo.svg" style="margin:40px auto;display:block;"></a>
+<a href="https://aiblock.dev"><img width="400px" height="auto" src="https://github.com/ABlockOfficial/.github/blob/main/assets/header.svg" style="margin:40px auto;display:block;"></a>
 </div>
 
 <h3 align="center">Hey there, welcome to AIBlock 👋</h3>
-
-<!-- <p align="center">
-  <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1"><img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?color=red&label=Subscribe&style=for-the-badge"/></a> 
-  <a href="https://www.youtube.com/c/DevProTips"><img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/youtube-api/view-count-badge-temp.php?label=Views&color=e1ad0e&style=for-the-badge#2"/></a> 
-  <a href="https://twitter.com/ABlockOfficial"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/ABlockOfficial?color=55960c&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
-  <a href="https://github.com/ABlockOfficial"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/ABlockOfficial&label=Follow"/></a>
-  <a href="https://github.com/ABlockOfficial"><img alt="views" title="Github views" src="https://freshidea.com/jonah/app/ghpvc/"/></a>
-</p> -->
 
 ..
 
@@ -50,8 +42,8 @@ Find resources on contribution here:
       <td><img alt="Forks" src="https://img.shields.io/github/forks/ABlockOfficial/A-Block.js?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/ABlockOfficial/Chain"><b>Chain</b></a></td>
-      <td>The blockchain that powers the AIBlock tech stack</td>
+      <td><a href="https://github.com/ABlockOfficial/Chain"><b>Two Way Chain</b></a></td>
+      <td>The 2-Way blockchain</td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/ABlockOfficial/Chain?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/ABlockOfficial/Chain?style=flat-square&labelColor=343b41"/></td>
     </tr>
@@ -79,21 +71,22 @@ Find resources on contribution here:
         <tr>
             <td><a href="https://github.com/ABlockOfficial/A-Block.js"><img alt="JavaScript SDK" title="JavaScript SDK" height="80px" src="https://raw.githubusercontent.com/ABlockOfficial/A-Block.js/main/assets/hero.svg" /></a>
             </td>
-            <!-- <td><a href="#"><img alt="HTML5" title="HTML5" height="28px"
-                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
+            <td><a href="https://packagist.org/packages/io-digital/a-block-ph"><img alt="PHP SDK" title="PHP SDK" height="80px"
+                        src="https://github.com/ABlockOfficial/.github/blob/main/assets/php_logo.svg" /></a>
             </td>
-            <td><a href="#"><img alt="CSS3" title="CSS3" height="28px"
+            <!-- <td><a href="#"><img alt="CSS3" title="CSS3" height="28px"
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
             </td>
             <td><a href="#"><img alt="PHP" title="PHP" height="28px"
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" /></a>
             </td>
             <td><a href="#"><img alt="Python" title="Python" height="28px"
-                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></a> -->
-            </td>
+                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></a>
+            </td> -->
         </tr>
         <tr>
             <td><a href="https://github.com/ABlockOfficial/A-Block.js">JavaScript</a></td>
+            <td><a href="https://packagist.org/packages/io-digital/a-block-php">PHP</a></td>
         </tr>
         <!-- <tr>
             <td><a href="#"><img alt="NodeJS" title="NodeJS" height="28px"
