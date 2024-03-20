@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://aiblock.dev"><img width="100%" height="auto" src="https://github.com/ABlockOfficial/.github/blob/main/assets/header.svg" style="margin:40px auto;display:block;"></a>
+<a href="https://aiblock.dev"><img width="100%" height="auto" src="https://github.com/AIBlockOfficial/.github/blob/main/assets/header.svg" style="margin:40px auto;display:block;"></a>
 </div>
 
 ..
@@ -8,10 +8,10 @@
 
 Find resources on contribution here:
 
-- 🧩 [Contribution Process](https://github.com/ABlockOfficial/.github/blob/main/contribution-process/README.md)
-- 🪲 [Issue Template](https://github.com/ABlockOfficial/.github/blob/main/issue-template/README.md)
-- 🛠️ [Pull Request Template](https://github.com/ABlockOfficial/.github/blob/main/pr-template/README.md)
-- 🤝 [Community Guidelines](https://github.com/ABlockOfficial/.github/blob/main/community-guidelines/README.md)
+- 🧩 [Contribution Process](https://github.com/AIBlockOfficial/.github/blob/main/contribution-process/README.md)
+- 🪲 [Issue Template](https://github.com/AIBlockOfficial/.github/blob/main/issue-template/README.md)
+- 🛠️ [Pull Request Template](https://github.com/AIBlockOfficial/.github/blob/main/pr-template/README.md)
+- 🤝 [Community Guidelines](https://github.com/AIBlockOfficial/.github/blob/main/community-guidelines/README.md)
 
 ..
 
@@ -28,28 +28,28 @@ Find resources on contribution here:
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/ABlockOfficial/Network"><b>Network</b></a></td>
+      <td><a href="https://github.com/AIBlockOfficial/Network"><b>Network</b></a></td>
       <td>The network that supports the AIBlock tech stack</td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/ABlockOfficial/Network?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/ABlockOfficial/Network?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/AIBlockOfficial/Network?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/AIBlockOfficial/Network?style=flat-square&labelColor=343b41"/></td>
     </tr>
         <tr>
-      <td><a href="https://github.com/ABlockOfficial/A-Block.js"><b>A-Block.js</b></a></td>
+      <td><a href="https://github.com/AIBlockOfficial/2Way.js"><b>2Way.js</b></a></td>
       <td>AIBlock JavaScript SDK</td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/ABlockOfficial/A-Block.js?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/ABlockOfficial/A-Block.js?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/AIBlockOfficial/2Way.js?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/AIBlockOfficial/2Way.js?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/ABlockOfficial/Chain"><b>Two Way Chain</b></a></td>
+      <td><a href="https://github.com/AIBlockOfficial/Chain"><b>2-Way Chain</b></a></td>
       <td>The 2-Way blockchain</td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/ABlockOfficial/Chain?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/ABlockOfficial/Chain?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/AIBlockOfficial/Chain?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/AIBlockOfficial/Chain?style=flat-square&labelColor=343b41"/></td>
     </tr>
      <tr>
-      <td><a href="https://github.com/ABlockOfficial/Valence"><b>Valence</b></a></td>
+      <td><a href="https://github.com/AIBlockOfficial/Valence"><b>Valence</b></a></td>
       <td>The L2 node for E2E encrypted data exchange</td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/ABlockOfficial/Valence?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/ABlockOfficial/Valence?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/AIBlockOfficial/Valence?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/AIBlockOfficial/Valence?style=flat-square&labelColor=343b41"/></td>
     </tr>
 
   </tbody>
@@ -57,7 +57,7 @@ Find resources on contribution here:
 
 
 <p align="left">
-  <a href="https://github.com/ABlockOfficial?tab=repositories"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-More%20Repos-black?style=for-the-badge&logo=addthis&logoColor=white"/></a>
+  <a href="https://github.com/AIBlockOfficial?tab=repositories"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-More%20Repos-black?style=for-the-badge&logo=addthis&logoColor=white"/></a>
 </p>
 
 ..
@@ -67,10 +67,10 @@ Find resources on contribution here:
 <table>
     <tbody>
         <tr>
-            <td><a href="https://github.com/ABlockOfficial/A-Block.js"><img alt="JavaScript SDK" title="JavaScript SDK" height="80px" src="https://raw.githubusercontent.com/ABlockOfficial/A-Block.js/main/assets/hero.svg" /></a>
+            <td><a href="https://github.com/AIBlockOfficial/2Way.js"><img alt="JavaScript SDK" title="JavaScript SDK" height="80px" src="https://raw.githubusercontent.com/AIBlockOfficial/2Way.js/main/assets/hero.svg" /></a>
             </td>
             <td><a href="https://packagist.org/packages/io-digital/a-block-ph"><img alt="PHP SDK" title="PHP SDK" height="80px"
-                        src="https://github.com/ABlockOfficial/.github/blob/main/assets/php_logo.svg" /></a>
+                        src="https://github.com/AIBlockOfficial/.github/blob/main/assets/php_logo.svg" /></a>
             </td>
             <!-- <td><a href="#"><img alt="CSS3" title="CSS3" height="28px"
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
@@ -83,7 +83,7 @@ Find resources on contribution here:
             </td> -->
         </tr>
         <tr>
-            <td><a href="https://github.com/ABlockOfficial/A-Block.js">JavaScript</a></td>
+            <td><a href="https://github.com/AIBlockOfficial/2Way.js">JavaScript</a></td>
             <td><a href="https://packagist.org/packages/io-digital/a-block-php">PHP</a></td>
         </tr>
         <!-- <tr>
